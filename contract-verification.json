@@ -1,0 +1,26 @@
+{
+  "contractAddress": "0x441b433873dF95232130863DFcB646230cd29d6a",
+  "network": "mainnet",
+  "type": "SmartWallet",
+  "deploymentAddress": "0xba5ed1...b85842",
+  "deploymentTransaction": "0x7d3a1c...f97c9b",
+  "deploymentTimestamp": "2026-06-07T00:22:59Z",
+  "verification": {
+    "status": "pending",
+    "compiler": {
+      "version": "0.8.x",
+      "optimization": true,
+      "runs": 200
+    },
+    "constructorArgs": []
+  },
+  "balance": {
+    "eth": "0.00012404829286190",
+    "usd": "0.30",
+    "ethPrice": 2418.00
+  },
+  "explorer": {
+    "url": "https://etherscan.io/address/0x441b433873dF95232130863DFcB646230cd29d6a",
+    "tenderly": "https://dashboard.tenderly.co/contract/0x441b433873dF95232130863DFcB646230cd29d6a"
+  }
+}
